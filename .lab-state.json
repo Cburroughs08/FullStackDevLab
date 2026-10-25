@@ -6,5 +6,13 @@
   "publisherPrefix": "lab",
   "repo": "Cburroughs08/FullStackDevLab",
   "mainRulesetId": 25827978,
-  "mainRulesetName": "lab-main-protection"
+  "mainRulesetName": "lab-main-protection",
+  "devEnvUrl": "https://wm-dev-6231.crm.dynamics.com",
+  "devEnvId": "7325643b-f9e7-e91e-8ac1-c6449779b219",
+  "devOrgId": "74af819b-93d0-f111-be87-6045bd06d92a",
+  "devProfile": "dev",
+  "testEnvUrl": "https://wm-test-6231.crm.dynamics.com",
+  "testEnvId": "f45da246-c1df-e6df-88b3-940b4ac6f00c",
+  "testOrgId": "6daf819b-93d0-f111-be87-6045bd06d91d",
+  "testProfile": "test"
 }
