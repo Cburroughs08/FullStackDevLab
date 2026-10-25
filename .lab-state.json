@@ -40,5 +40,8 @@
   "productDataSourceScaffolded": true,
   "openFoodFactsConnectionId": "81e08e59-e8fc-4eec-82d8-c3f106be9a8c",
   "connectorDataSourceScaffolded": true,
-  "barcodeScanUiScaffolded": true
+  "barcodeScanUiScaffolded": true,
+  "configDataDirectory": "/workspaces/FullStackDevLab/src/Packages.Main/Data",
+  "configDataSchemaPath": "/workspaces/FullStackDevLab/src/Packages.Main/Data/data_schema.xml",
+  "configDataFilePath": "/workspaces/FullStackDevLab/src/Packages.Main/Data/data.xml"
 }
